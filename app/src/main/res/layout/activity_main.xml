@@ -21,7 +21,7 @@
             android:gravity="center"
             android:layout_weight="1">
 
-            <de.hdodenhof.circleimageview.CircleImageView
+            <ImageView
                 android:id="@+id/facebook"
                 android:layout_width="80dp"
                 android:layout_height="80dp"
@@ -42,7 +42,7 @@
             android:layout_weight="1">
 
             <de.hdodenhof.circleimageview.CircleImageView
-                android:id="@+id/facebook"
+                android:id="@+id/instagram"
                 android:layout_width="80dp"
                 android:layout_height="80dp"
                 android:layout_margin="5dp" />
@@ -62,7 +62,7 @@
             android:layout_weight="1">
 
             <de.hdodenhof.circleimageview.CircleImageView
-                android:id="@+id/facebook"
+                android:id="@+id/twitter"
                 android:layout_width="80dp"
                 android:layout_height="80dp"
                 android:layout_margin="5dp" />
@@ -82,7 +82,7 @@
             android:layout_weight="1">
 
             <de.hdodenhof.circleimageview.CircleImageView
-                android:id="@+id/facebook"
+                android:id="@+id/google"
                 android:layout_width="80dp"
                 android:layout_height="80dp"
                 android:layout_margin="5dp" />
@@ -110,7 +110,7 @@
             android:layout_weight="1">
 
             <de.hdodenhof.circleimageview.CircleImageView
-                android:id="@+id/facebook"
+                android:id="@+id/pintrest"
                 android:layout_width="80dp"
                 android:layout_height="80dp"
                 android:layout_margin="5dp" />
@@ -130,7 +130,7 @@
             android:layout_weight="1">
 
             <de.hdodenhof.circleimageview.CircleImageView
-                android:id="@+id/facebook"
+                android:id="@+id/snapchat"
                 android:layout_width="80dp"
                 android:layout_height="80dp"
                 android:layout_margin="5dp" />
@@ -150,7 +150,7 @@
             android:layout_weight="1">
 
             <de.hdodenhof.circleimageview.CircleImageView
-                android:id="@+id/facebook"
+                android:id="@+id/youtube"
                 android:layout_width="80dp"
                 android:layout_height="80dp"
                 android:layout_margin="5dp" />
@@ -170,7 +170,7 @@
             android:layout_weight="1">
 
             <de.hdodenhof.circleimageview.CircleImageView
-                android:id="@+id/facebook"
+                android:id="@+id/sharechat"
                 android:layout_width="80dp"
                 android:layout_height="80dp"
                 android:layout_margin="5dp" />
@@ -198,7 +198,7 @@
             android:layout_weight="1">
 
             <de.hdodenhof.circleimageview.CircleImageView
-                android:id="@+id/facebook"
+                android:id="@+id/netflix"
                 android:layout_width="80dp"
                 android:layout_height="80dp"
                 android:layout_margin="5dp" />
@@ -218,7 +218,7 @@
             android:layout_weight="1">
 
             <de.hdodenhof.circleimageview.CircleImageView
-                android:id="@+id/facebook"
+                android:id="@+id/zill"
                 android:layout_width="80dp"
                 android:layout_height="80dp"
                 android:layout_margin="5dp" />
@@ -238,7 +238,7 @@
             android:layout_weight="1">
 
             <de.hdodenhof.circleimageview.CircleImageView
-                android:id="@+id/facebook"
+                android:id="@+id/flickr"
                 android:layout_width="80dp"
                 android:layout_height="80dp"
                 android:layout_margin="5dp" />
@@ -258,7 +258,7 @@
             android:layout_weight="1">
 
             <de.hdodenhof.circleimageview.CircleImageView
-                android:id="@+id/facebook"
+                android:id="@+id/spotify"
                 android:layout_width="80dp"
                 android:layout_height="80dp"
                 android:layout_margin="5dp" />
@@ -286,7 +286,7 @@
             android:layout_weight="1">
 
             <de.hdodenhof.circleimageview.CircleImageView
-                android:id="@+id/facebook"
+                android:id="@+id/telegram"
                 android:layout_width="80dp"
                 android:layout_height="80dp"
                 android:layout_margin="5dp" />
@@ -306,7 +306,7 @@
             android:layout_weight="1">
 
             <de.hdodenhof.circleimageview.CircleImageView
-                android:id="@+id/facebook"
+                android:id="@+id/skype"
                 android:layout_width="80dp"
                 android:layout_height="80dp"
                 android:layout_margin="5dp" />
@@ -326,7 +326,7 @@
             android:layout_weight="1">
 
             <de.hdodenhof.circleimageview.CircleImageView
-                android:id="@+id/facebook"
+                android:id="@+id/wechat"
                 android:layout_width="80dp"
                 android:layout_height="80dp"
                 android:layout_margin="5dp" />
@@ -346,7 +346,7 @@
             android:layout_weight="1">
 
             <de.hdodenhof.circleimageview.CircleImageView
-                android:id="@+id/facebook"
+                android:id="@+id/vk"
                 android:layout_width="80dp"
                 android:layout_height="80dp"
                 android:layout_margin="5dp" />
@@ -374,7 +374,7 @@
             android:layout_weight="1">
 
             <de.hdodenhof.circleimageview.CircleImageView
-                android:id="@+id/facebook"
+                android:id="@+id/reddit"
                 android:layout_width="80dp"
                 android:layout_height="80dp"
                 android:layout_margin="5dp" />
@@ -394,7 +394,7 @@
             android:layout_weight="1">
 
             <de.hdodenhof.circleimageview.CircleImageView
-                android:id="@+id/facebook"
+                android:id="@+id/discord"
                 android:layout_width="80dp"
                 android:layout_height="80dp"
                 android:layout_margin="5dp" />
@@ -414,7 +414,7 @@
             android:layout_weight="1">
 
             <de.hdodenhof.circleimageview.CircleImageView
-                android:id="@+id/facebook"
+                android:id="@+id/github"
                 android:layout_width="80dp"
                 android:layout_height="80dp"
                 android:layout_margin="5dp" />
@@ -434,7 +434,7 @@
             android:layout_weight="1">
 
             <de.hdodenhof.circleimageview.CircleImageView
-                android:id="@+id/facebook"
+                android:id="@+id/yandex"
                 android:layout_width="80dp"
                 android:layout_height="80dp"
                 android:layout_margin="5dp" />
@@ -445,6 +445,12 @@
                 android:text="Yandex" />
 
         </LinearLayout>
+
+        <ImageView
+            android:id="@+id/facebook2"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_margin="5dp" />
 
     </LinearLayout>
 
